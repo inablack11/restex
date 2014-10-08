@@ -11,6 +11,6 @@
   <property name="hibernate.dialect">org.hibernate.dialect.Oracle10gDialect</property>
   <property name="hibernate.default_schema">dbart</property>
   <property name="show_sql">true</property>
-  <mapping resource="com/cmu/hibernate/user/DBUser.hbm.xml"></mapping>
+  <mapping resource="com/cmu/hibernate/model/TestT1.hbm.xml"></mapping>
 </session-factory>
 </hibernate-configuration>
