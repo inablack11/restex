@@ -2,7 +2,7 @@ package com.cmu.designpatterns;
 
 import java.util.Random;
 
-
+//test commit
 public class Test2 {
 	
 	private static ConverterFactory converterFactory = new ConverterFactory();
